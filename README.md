@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/aniksaha12](https://dev.to/aniksaha12)
 
-- 💬 Ask me about **HTML,CSS,JavaScript, ReactJs**
+- 💬 Ask me about **HTML,CSS, JavaScript, ReactJs**
 
 - 📫 How to reach me **aniksaha859@gmail.com**
 
