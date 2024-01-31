@@ -1,44 +1,50 @@
-<h1 align="center">Hi 👋, I'm Anik Saha</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniksaha12" alt="aniksaha12" /></a> </p>
+<img src="./images/Sankalan Dasgupta.gif" alt="cover image">
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aniksaha30" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aniksaha30?logo=twitter&style=for-the-badge" alt="https://twitter.com/aniksaha30" /></a> </p>
+### Hi there I'm Anik Saha👋
+<p>Welcome to my GitHub profile :pray:</p>
+<p>Hi!, I'm Sankalan Dasgupta, Software Engineer at Goflysmart Holidays Pvt Ltd . I focus on building our web applications for smooth user experience. With tools like React and Nodejs . Currently, Looking for opportunities in Frontend and fullstack Development</p>
 
-- 🔭 I’m currently working on **JSP**
+- 🌱 I’m currently learning: JSP and Java
+- 👯 I’m looking to collaborate on: Open source projects on Javascript & React
+- 📫 How to reach me: Connect on LinkedIn and FaceBook
+- ⚡ Fun fact: I can make Digital Illustrations and play Valorant and CSGO
 
-- 🌱 I’m currently learning **React Native**
+---
+📊 Programming Languages I know:
+<div style="display: inline"/>
+<img src="https://gp3.googleusercontent.com/ggTxERmUzvTyu-8wmM3fUNvLpHJK3_wHSxLCS5HIxmPLuQ_LyHrMAwxRWR321KWWUM3d-udk1xBrem3n5wOddhjVwFaITPB8icCWTp6xu2mzocB5Ch82IIkIBOZHuwhcz-QKRgl9ZQ=s48-p-k" style="margin-right : 5px"/>
+<img src="https://gp3.googleusercontent.com/vmoLuO2OGs5WjhvFFbDja2XlYWQA6Sl2NiCqfqOeoHM9qBEUMUDiCevXmXPEqkrGB9-PyCd0XWxot7xepcq73imiTRDGFU4W9PxzTMu0ouO8OaRmUS6_iZDJOJMghJ9KnnR87jLJiA=s48-p-k" style="margin-right : 5px"/>
+<img src="https://gp3.googleusercontent.com/ZMitnA8FOG1Ac4zjvzGuQ9l8Cta_sTIp9I6ETpR1CKl0QryLGRE29PIL9OjmdLjWBXYOQyV804Wrp7ofSn6TZTTCmPHmid786Xlb9krZpZo_ZTLSFoAJL7meCXbJIiCNHpu0jbbR-Q=s48-p-k" style="margin-right : 5px"/>
+<img src="https://gp3.googleusercontent.com/YoT7zNS_1xQtlz6VMTLvCqrqtSBvwJ8PgkJVoVmbLAP_lOpsPhdo7qia0ZQwTVrYUyRuesuqrpEXJY_JkKsfeZtrm5z0CdOYwaibeSSqfiXvFaBq4sWLfis2e-bPKUngC2rxYnERTA=s48-p-k" style="margin-right : 5px"/>
+<img src="https://gp3.googleusercontent.com/2Gw-z10EFvIR6JP2APu5F0160lxdaA-MLdSyCmfC9lnJYUQHkH_CWua-ysmwfNS716hWfVjrM73CqPHeXjxNOuHnCJam-ulAnqVUOi15Zn3QdfdXdKCqNjEiXehgW5Ygca5x8cet2A=s48-p-k" style="margin-right : 5px"/>
+<img src="https://gp3.googleusercontent.com/wBuL3z-Sv3gW5M2eOXDmN2-fC_txIAzPzyFWR51BFiEsoxDb0GVhI9LFwuX9S4Lef7QON05QJBkRPNcp7p68pdHmPOe80NI3p6DySAz9Ukh1OcUdOYPbquHbuS0zpTfrkGhDwvpivQ=s48-p-k" style="margin-right : 5px"/>
+</div>
 
-- 📝 I regularly write articles on [https://dev.to/aniksaha12](https://dev.to/aniksaha12)
+📚 Libraries/Frameworks I use:
+<div style="inline">
+ <img src="https://gp3.googleusercontent.com/xpusb6Sn-CTs74omfD5HTwbnVeVYa9lqoUTl4mgrye-EmZWw5U2psiZU3Fk7cpEBPjLe4z28PS16AcN8OdjKrsrK-Q67sdoeViY44rHw7YuavIjOmQmWWiVCkCd-hJdyYpfjldVO9Q=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://gp3.googleusercontent.com/dQOg4syyKHIyOsKRm2AljixqfuEoXWLktCcz1LTim6Fghr_afDMoAFQ-8g58dyNonJHFIqG528OMiLWFGF0Lblx8Gzy2ABulE3jW246LWPx5XbaQmjR4WPFY2YzEY1fogE4X2Y-BFw=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://lh3.googleusercontent.com/_J-GU55lJImn2DTdnOePvpO29IdlcQeabrKxg1x6ACW3kTkrTgugOtgvcrUI33W0UbDd7pURv_i1-0F9dbO_WhJXv73611VwQEihZVpqO6ldBhCf3RnO29aiM7p2bymNcsIodLMRMg=w2400" width="48px" height="48px" style="margin-right : 5px"/>
+ <img src="https://gp3.googleusercontent.com/sHQurDedPsMjmAevyA5GVtr1q8UmA2lz1ubelDyc_Qpvw8-Ijo_natWj0Jmyc0oOO2UP_Xn6yW40XQm0Buqd-zQdVCmT_-P03tGtqI6OinvBCYIBVCDmGmW7toRErrvhgFFCI3chzQ=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://lh3.googleusercontent.com/Z9gq0E-OJ3ZPoSdFnmTHHvoxjhJtOW6JAYnIWFRZF8DBWl_sdzrJTLGIcgjrqCd3ukLXE4uF1ncD2-bdw-nW7ImzvJm02EVLX1VPsm8NXLVaxqTItbypiR1L_7sSNONN1yE66WV3mA=s240-p-k" width="48px" height="48px" style="margin-right : 5px"/>
+</div>
 
-- 💬 Ask me about **HTML,CSS, JavaScript, ReactJs**
+🛠 Tools I use:
+<div style="inline">
+ <img src="https://gp3.googleusercontent.com/bG9QbQKaVnFnCegu6vFDiwDvbA6PAAg-Cc_K9FZc153oTSoOowqVgnrA3wTYsFnvw1JyxK0quUaAjTp7jsWPuHkMhLKpxMiic57uUuejaVn0Q2xuEzxe286oquqZSfzlcImOnkoDnA=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://gp3.googleusercontent.com/uvAtTx6Dj8lhH8WwxBwg-bsNCKuV9n2zUUIZO0Z05-aVW1nTX6tvh6by-2oxgCKosnAtuXaZgPaCie8Y89PaOhnYjrD8iEx0euCnM-KWeg8AuGWZ7s0ci-b_PQO3mT1eiFXBQvOPTw=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://gp3.googleusercontent.com/-7AZqtAWQUqa7UPtLTvIx8JaArepJnHHAJ3PpcQo0Cumr1nrgAvrMi9RT0hEZqVLmt_LDm2yjqDYR1ZrtBBPveR-8ztjjK62zMKkuiX0dBpXnAj8EjELG-bpWuaZNzob5J3wgIrz6g=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://gp3.googleusercontent.com/0WZMtRyCsPrYUPRlUkuSCMRp0Fb2t-NJhJ9A-UGNizRFcufq7V-1w5tNoCZnG6PRVsp4234JTZTBEsr4ZAW26CX-fEONG1fe7jrbKMkD-xQgmuTSXBTuQnAb8pianG0aQgatk71U8g=s48-p-k" style="margin-right : 5px"/>
+ <img src="https://gp3.googleusercontent.com/z6l5FcAD9oU-tdsCykfXwXrqusBRixzEkFcWBIcWTnXMKTy05JaydPoOaXu6NX0yWpSTKMZYHXPoOcA6ud3WfeOF8vDzs_FTjSTvrV4ecs28XPvsZ9EpZ2fE3Rk_U1dvlpTzIbHQTw=s48-p-k" /style="margin-right : 5px">
+</div>
 
-- 📫 How to reach me **aniksaha859@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KTy-eR2yJ5iKH9h9X-sYwyoShT8o-jkp/view?usp=share_link](https://drive.google.com/file/d/1KTy-eR2yJ5iKH9h9X-sYwyoShT8o-jkp/view?usp=share_link)
+📝 Check out my **blogs**: 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://dev.to/aniksaha12"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center" style="margin-right : 5px"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/aniksaha12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/aniksaha12" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/aniksaha12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aniksaha12" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/aniksaha30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aniksaha30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anik-saha-197259168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anik-saha-197259168/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11705046/anik-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11705046/anik-saha" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/aniksaha12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/aniksaha12" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100039355151369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100039355151369" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/maliocas_melatine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maliocas_melatine/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/maliocas19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/maliocas19" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@aniksaha_12171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@aniksaha_12171" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/aniksaha859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aniksaha859" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aniksaha12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniksaha12/" height="30" width="40" /></a>
-<a href="https://discord.gg/Anik12#2796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anik12#2796" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniksaha12&show_icons=true&locale=en&layout=compact" alt="aniksaha12" /></p>
+---
+
