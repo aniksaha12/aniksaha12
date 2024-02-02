@@ -2,7 +2,7 @@
 
 ### Hi there I'm Anik Saha👋
 <p>Welcome to my GitHub profile :pray:</p>
-<p>Hi!, I'm Sankalan Dasgupta, Software Engineer at Goflysmart Holidays Pvt Ltd. I focus on building our web applications for a smooth user experience. With tools like React and Nodejs. Currently, Looking for opportunities in Frontend and full-stack Development</p>
+<p>Hi!, I'm Anik Saha, Software Engineer at Goflysmart Holidays Pvt Ltd. I focus on building our web applications for a smooth user experience. With tools like React and Nodejs. Currently, Looking for opportunities in Frontend and full-stack Development</p>
 
 - 🌱 I’m currently learning: JSP and Java
 - 👯 I’m looking to collaborate on: Open source projects on Javascript & React
