@@ -1,50 +1,34 @@
-<img src="./images/aniksaha.gif" alt="cover image">
+# 💫 About Me:
+🌐 To check out my portfolio website go to www.aniksaha.in<br>🔭 I’m currently working on JSP and Java<br>👯 I’m looking to collaborate on Open source projects Javascript, React & Nodejs<br>🌱 I’m currently learning React Native<br>💬 Ask me about Frontend Development, Backend Development, JavaScript, TypeScript, ReactJS, NextJs<br>
 
-### Hi there I'm Anik Saha👋
-<p>Welcome to my GitHub profile :pray:</p>
-<p>Hi!, I'm Anik Saha, Software Engineer at Goflysmart Holidays Pvt Ltd. I focus on building our web applications for a smooth user experience. With tools like React and Nodejs. Currently, Looking for opportunities in Frontend and full-stack Development</p>
 
-- 🌱 I’m currently learning: JSP and Java
-- 👯 I’m looking to collaborate on: Open source projects on Javascript & React
-- 📫 How to reach me: Connect on LinkedIn and FaceBook
-- ⚡ Fun fact: I can make Digital Illustrations and play Valorant and CSGO
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100039355151369) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aniksaha19) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/11705046/anik-saha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Aniksaha30) 
 
----
-📊 Programming Languages I know:
-<div style="display: inline"/>
-<img src="https://gp3.googleusercontent.com/ggTxERmUzvTyu-8wmM3fUNvLpHJK3_wHSxLCS5HIxmPLuQ_LyHrMAwxRWR321KWWUM3d-udk1xBrem3n5wOddhjVwFaITPB8icCWTp6xu2mzocB5Ch82IIkIBOZHuwhcz-QKRgl9ZQ=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/vmoLuO2OGs5WjhvFFbDja2XlYWQA6Sl2NiCqfqOeoHM9qBEUMUDiCevXmXPEqkrGB9-PyCd0XWxot7xepcq73imiTRDGFU4W9PxzTMu0ouO8OaRmUS6_iZDJOJMghJ9KnnR87jLJiA=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/ZMitnA8FOG1Ac4zjvzGuQ9l8Cta_sTIp9I6ETpR1CKl0QryLGRE29PIL9OjmdLjWBXYOQyV804Wrp7ofSn6TZTTCmPHmid786Xlb9krZpZo_ZTLSFoAJL7meCXbJIiCNHpu0jbbR-Q=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/YoT7zNS_1xQtlz6VMTLvCqrqtSBvwJ8PgkJVoVmbLAP_lOpsPhdo7qia0ZQwTVrYUyRuesuqrpEXJY_JkKsfeZtrm5z0CdOYwaibeSSqfiXvFaBq4sWLfis2e-bPKUngC2rxYnERTA=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/2Gw-z10EFvIR6JP2APu5F0160lxdaA-MLdSyCmfC9lnJYUQHkH_CWua-ysmwfNS716hWfVjrM73CqPHeXjxNOuHnCJam-ulAnqVUOi15Zn3QdfdXdKCqNjEiXehgW5Ygca5x8cet2A=s48-p-k" style="margin-right : 5px"/>
-<img src="https://gp3.googleusercontent.com/wBuL3z-Sv3gW5M2eOXDmN2-fC_txIAzPzyFWR51BFiEsoxDb0GVhI9LFwuX9S4Lef7QON05QJBkRPNcp7p68pdHmPOe80NI3p6DySAz9Ukh1OcUdOYPbquHbuS0zpTfrkGhDwvpivQ=s48-p-k" style="margin-right : 5px"/>
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat-square&logo=azuredevops&logoColor=white&color=%230078D7) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aniksaha12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniksaha12&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniksaha12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📚 Libraries/Frameworks I use:
-<div style="inline">
- <img src="https://gp3.googleusercontent.com/xpusb6Sn-CTs74omfD5HTwbnVeVYa9lqoUTl4mgrye-EmZWw5U2psiZU3Fk7cpEBPjLe4z28PS16AcN8OdjKrsrK-Q67sdoeViY44rHw7YuavIjOmQmWWiVCkCd-hJdyYpfjldVO9Q=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/dQOg4syyKHIyOsKRm2AljixqfuEoXWLktCcz1LTim6Fghr_afDMoAFQ-8g58dyNonJHFIqG528OMiLWFGF0Lblx8Gzy2ABulE3jW246LWPx5XbaQmjR4WPFY2YzEY1fogE4X2Y-BFw=s48-p-k" style="margin-right : 5px"/>
- <img src="https://lh3.googleusercontent.com/_J-GU55lJImn2DTdnOePvpO29IdlcQeabrKxg1x6ACW3kTkrTgugOtgvcrUI33W0UbDd7pURv_i1-0F9dbO_WhJXv73611VwQEihZVpqO6ldBhCf3RnO29aiM7p2bymNcsIodLMRMg=w2400" width="48px" height="48px" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/sHQurDedPsMjmAevyA5GVtr1q8UmA2lz1ubelDyc_Qpvw8-Ijo_natWj0Jmyc0oOO2UP_Xn6yW40XQm0Buqd-zQdVCmT_-P03tGtqI6OinvBCYIBVCDmGmW7toRErrvhgFFCI3chzQ=s48-p-k" style="margin-right : 5px"/>
- <img src="https://lh3.googleusercontent.com/Z9gq0E-OJ3ZPoSdFnmTHHvoxjhJtOW6JAYnIWFRZF8DBWl_sdzrJTLGIcgjrqCd3ukLXE4uF1ncD2-bdw-nW7ImzvJm02EVLX1VPsm8NXLVaxqTItbypiR1L_7sSNONN1yE66WV3mA=s240-p-k" width="48px" height="48px" style="margin-right : 5px"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aniksaha12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🛠 Tools I use:
-<div style="inline">
- <img src="https://gp3.googleusercontent.com/bG9QbQKaVnFnCegu6vFDiwDvbA6PAAg-Cc_K9FZc153oTSoOowqVgnrA3wTYsFnvw1JyxK0quUaAjTp7jsWPuHkMhLKpxMiic57uUuejaVn0Q2xuEzxe286oquqZSfzlcImOnkoDnA=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/uvAtTx6Dj8lhH8WwxBwg-bsNCKuV9n2zUUIZO0Z05-aVW1nTX6tvh6by-2oxgCKosnAtuXaZgPaCie8Y89PaOhnYjrD8iEx0euCnM-KWeg8AuGWZ7s0ci-b_PQO3mT1eiFXBQvOPTw=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/-7AZqtAWQUqa7UPtLTvIx8JaArepJnHHAJ3PpcQo0Cumr1nrgAvrMi9RT0hEZqVLmt_LDm2yjqDYR1ZrtBBPveR-8ztjjK62zMKkuiX0dBpXnAj8EjELG-bpWuaZNzob5J3wgIrz6g=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/0WZMtRyCsPrYUPRlUkuSCMRp0Fb2t-NJhJ9A-UGNizRFcufq7V-1w5tNoCZnG6PRVsp4234JTZTBEsr4ZAW26CX-fEONG1fe7jrbKMkD-xQgmuTSXBTuQnAb8pianG0aQgatk71U8g=s48-p-k" style="margin-right : 5px"/>
- <img src="https://gp3.googleusercontent.com/z6l5FcAD9oU-tdsCykfXwXrqusBRixzEkFcWBIcWTnXMKTy05JaydPoOaXu6NX0yWpSTKMZYHXPoOcA6ud3WfeOF8vDzs_FTjSTvrV4ecs28XPvsZ9EpZ2fE3Rk_U1dvlpTzIbHQTw=s48-p-k" /style="margin-right : 5px">
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aniksaha12&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aniksaha12&icon=1&color=1)](https://visitcount.itsvg.in)
 
-📝 Check out my **blogs**: 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/aniksaha) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AnikSah) 
 
-<a href="https://dev.to/aniksaha12"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center" style="margin-right : 5px"/></a>
-
-
-
----
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
