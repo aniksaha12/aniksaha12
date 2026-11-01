@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 CTO & Founder of ThinkBees Technologies Pvt. Ltd.  
-🌐 Explore my portfolio: [www.aniksaha.in](https://www.aniksaha.in)  
+🌐 Explore portfolio: [www.thinkbeestechnologies.com](www.thinkbeestechnologies.com)  
 🧠 Building AI-powered solutions, intelligent agents, and autonomous workflows.  
 🤖 Focused on AI agents, LLMs, voice AI, multi-agent systems, and intelligent automation.  
 ⚡ Connecting AI with APIs, business systems, and real-world workflows.  
